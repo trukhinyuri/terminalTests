@@ -1,0 +1,755 @@
+ls --invalid-flag
+pip install nonexistent-package
+git push origin nonexistent-branch
+git pull origin invalid-branch
+git status --invalid-flag
+git commit --no-message
+clear -x
+python invalid_file.py
+npm install invalid-package
+cd nonexistent-directory
+git branch nonexistent-branch
+npm install invalid-package
+npm run nonexistent-script
+rm nonexistent-file
+git stash apply nonexistent-stash
+docker run nonexistent-image
+git fetch nonexistent-remote
+mvn nonexistent-command
+git reset --hard nonexistent-hash
+exit 1
+git log nonexistent-hash
+pwd --invalid-flag
+git merge nonexistent-branch
+node nonexistent-file.js
+cat nonexistent-file
+gradle nonexistent-task
+git config invalid-option
+docker run nonexistent-image
+git rebase nonexistent-branch
+java -invalid-option
+echo $INVALID_VAR
+npx nonexistent-package
+php -r 'invalid-code();'
+yarn install nonexistent-package
+python3 invalid_script.py
+git diff nonexistent-branch
+make invalid-target
+source nonexistent-file
+go run nonexistent.go
+git init --bare invalid-directory
+nvm use invalid-version
+git clone nonexistent-repo-url
+export INVALID_VAR=
+docker-compose up invalid-service
+ll --invalid-flag
+mkdir -p invalid\path
+n invalid-option
+brew install nonexistent-formula
+which nonexistent-command
+chmod 777 nonexistent-file
+pip3 install nonexistent-package
+curl -X GET invalid-url
+git restore nonexistent-file
+install nonexistent-package
+cp nonexistent-source nonexistent-dest
+conda install nonexistent-package
+mv nonexistent-file nonexistent-location
+touch nonexistent-file
+yarn install invalid-package
+composer install nonexistent-package
+ssh nonexistent-host
+pnpm install nonexistent-package
+cls --invalid-flag
+git rm nonexistent-file
+history -d nonexistent-entry
+dotnet nonexistent-command
+vim nonexistent-file
+composer require nonexistent-package
+ng invalid-command
+poetry add nonexistent-package
+composer update nonexistent-package
+composer invalid-command
+nano nonexistent-file
+aws s3 cp invalid-bucket
+dir nonexistent-directory
+sh nonexistent-script.sh
+git switch nonexistent-branch
+git cherry-pick nonexistent-commit
+vi nonexistent-file
+bash nonexistent-script.sh
+find / invalid-file
+git tag -d nonexistent-tag
+ps -p nonexistent-pid
+javac nonexistent-file.java
+open nonexistent-application
+pnpm install invalid-package
+kill -9 nonexistent-pid
+pytest nonexistent-test
+kubectl apply -f nonexistent-file.yaml
+ping nonexistent-host
+grep nonexistent-pattern nonexistent-file
+tail -f nonexistent-file
+code nonexistent-project
+env INVALID_VAR
+terraform apply nonexistent-file
+git revert nonexistent-commit
+apt-get install nonexistent-package
+set nonexistent-variable
+git submodule add nonexistent-repo
+django-admin startapp invalid-app
+lsof nonexistent-file
+pnpm run nonexistent-script
+yarn run nonexistent-script
+mysql -e "invalid-sql-query"
+scp nonexistent-file user@host:/path
+psql -c "invalid-sql-query"
+gh pr checkout nonexistent-pr
+w --invalid-flag
+bundle install nonexistent-gem
+git clean -f nonexistent-directory
+r -e "invalid-R-code"
+pre-commit run nonexistent-hook
+less nonexistent-file
+gcloud compute instances create nonexistent-instance
+git show nonexistent-commit
+wget nonexistent-url
+man nonexistent-command
+tree nonexistent-directory
+tsc nonexistent-file.ts
+pyenv install nonexistent-version
+helm install nonexistent-chart
+where nonexistent-file
+ip addr show nonexistent-interface
+streamlit run nonexistent-file.py
+black nonexistent-file
+nx build nonexistent-project
+apt-get install nonexistent-package
+start nonexistent-application
+netstat -an | grep nonexistent-port
+df -h nonexistent-path
+yarn test nonexistent-test
+for nonexistent-variable
+help nonexistent-command
+flutter run nonexistent-project
+ln -s nonexistent-target nonexistent-link
+composer dump-autoload nonexistent-package
+pipenv install nonexistent-package
+bun run nonexistent-script
+composer remove nonexistent-package
+systemctl restart nonexistent-service
+tar -xvzf nonexistent-archive.tar.gz
+rails new nonexistent-app
+diff nonexistent-file1 nonexistent-file2
+su nonexistent-user
+jupyter notebook nonexistent-notebook.ipynb
+alias nonexistent-alias
+ssh-keygen -f nonexistent-key
+npm test nonexistent-test
+du -sh nonexistent-directory
+chown user:group nonexistent-file
+az login nonexistent-subscription
+htop --tree invalid-pid
+vite build nonexistent-project
+date -d invalid-date
+unzip nonexistent-archive.zip
+top -p nonexistent-pid
+symfony new nonexistent-project
+v --invalid-flag
+ruff lint nonexistent-file.py
+whereis nonexistent-command
+zsh nonexistent-script.sh
+ifconfig nonexistent-interface
+rmdir nonexistent-directory
+asdf install nonexistent-tool
+gem install nonexistent-gem
+time nonexistent-command
+ruby invalid-script.rb
+pod install nonexistent-pod
+adb install nonexistent-apk
+nest new nonexistent-project
+ngrok http invalid-port
+zip -r nonexistent-archive.zip nonexistent-directory
+eslint nonexistent-file.js
+telnet nonexistent-host
+gt --invalid-flag
+service nonexistent-service restart
+file nonexistent-file
+ncu nonexistent-package
+dart run nonexistent-script.dart
+firebase deploy nonexistent-app
+dd if=nonexistent-file of=/dev/null
+pipx install nonexistent-package
+next build nonexistent-project
+gitk nonexistent-repo
+ddev start nonexistent-project
+ansible-playbook nonexistent-playbook.yml
+omz update nonexistent-plugin
+unset nonexistent-variable
+sed 's/foo/bar/' nonexistent-file
+gulp build nonexistent-task
+git help nonexistent-command
+cargo build nonexistent-target
+exec nonexistent-command
+more nonexistent-file
+cmd /C nonexistent-command
+cmake nonexistent-project
+id nonexistent-user
+task run nonexistent-task
+ipconfig nonexistent-interface
+jenv enable-plugin nonexistent-plugin
+direnv allow nonexistent-directory
+ts-node nonexistent-script.ts
+prettier nonexistent-file.js
+type nonexistent-command
+head -n 10 nonexistent-file
+rsync nonexistent-source nonexistent-dest
+jq nonexistent-file.json
+z nonexistent-directory
+prisma generate nonexistent-schema
+killall nonexistent-process
+composer create-project nonexistent-package
+serve nonexistent-directory
+cargo run nonexistent-target
+rake build nonexistent-task
+cdk deploy nonexistent-app
+vue create nonexistent-project
+crontab -e nonexistent-task
+expo start nonexistent-project
+del nonexistent-file
+keytool -genkeypair -alias nonexistent-alias
+sl --invalid-flag
+jest nonexistent-test
+wc -l nonexistent-file
+uname -a nonexistent-system
+gcc nonexistent-file.c
+bazel build nonexistent-target
+gpg --decrypt nonexistent-file
+mc nonexistent-command
+nslookup nonexistent-host
+nc nonexistent-port
+git prune nonexistent-branch
+pm2 restart nonexistent-process
+git gc nonexistent-repo
+git apply nonexistent-patch
+sam deploy nonexistent-template
+sqlite3 nonexistent-database.db
+rg nonexistent-pattern nonexistent-file
+rbenv install nonexistent-version
+nvim nonexistent-file
+heroku run nonexistent-command
+fish nonexistent-script.fish
+pkill nonexistent-process
+yum install nonexistent-package
+xcode-select --install
+dig nonexistent-host
+nginx -s reload nonexistent-server
+ant build nonexistent-task
+ionic build nonexistent-project
+composer show nonexistent-package
+rustup update nonexistent-toolchain
+grunt build nonexistent-task
+dbt run nonexistent-model
+ffmpeg -i nonexistent-file
+taskkill /F /PID nonexistent-pid
+kubectx nonexistent-context
+pnpm test nonexistent-test
+rvm use nonexistent-version
+minikube start nonexistent-cluster
+git mv nonexistent-source nonexistent-destination
+composer config invalid-option
+robot run nonexistent-test.robot
+http --invalid-option
+composer init nonexistent-package
+composer self-update nonexistent-option
+drush status nonexistent-site
+hostname invalid-hostname
+composer outdated nonexistent-package
+chsh nonexistent-shell
+volta install nonexistent-package
+git grep nonexistent-pattern
+atlas build nonexistent-project
+subl nonexistent-project
+valet link nonexistent-site
+cargo add nonexistent-package
+terragrunt apply nonexistent-config
+phpunit --filter nonexistent-test
+pnpx run nonexistent-package
+sls deploy nonexistent-service
+np install nonexistent-package
+cypress run nonexistent-test
+cargo clean nonexistent-target
+composer audit nonexistent-package
+tmux new-session -s nonexistent-session
+composer global install nonexistent-package
+vercel deploy nonexistent-project
+do run nonexistent-task
+free -m nonexistent-option
+ansible --invalid-option
+k9s --namespace nonexistent-namespace
+pg_dump nonexistent-database
+cargo update nonexistent-crate
+cargo install nonexistent-crate
+base64 nonexistent-file
+screen nonexistent-session
+vagrant up nonexistent-environment
+pwsh -Command nonexistent-command
+stat nonexistent-file
+react-native run-ios nonexistent-project
+cargo test nonexistent-test
+composer clear-cache nonexistent-package
+cargo fmt nonexistent-target
+laravel new nonexistent-project
+git mergetool nonexistent-branch
+nodejs nonexistent-script.js
+ag nonexistent-pattern nonexistent-file
+vault login nonexistent-token
+tsx run nonexistent-file.tsx
+arch nonexistent-architecture
+k6 run nonexistent-script.js
+wp plugin install nonexistent-plugin
+serverless deploy nonexistent-service
+pushd nonexistent-directory
+pulumi up nonexistent-stack
+webpack build nonexistent-project
+bat nonexistent-file
+aws-vault add nonexistent-profile
+act run nonexistent-task
+fvm use nonexistent-version
+mongosh --eval "db.nonexistentCollection.find()"
+g++ nonexistent-file.cpp
+svn update nonexistent-repo
+quasar build nonexistent-app
+locust -f nonexistent-test.py
+pass show nonexistent-password
+vitest run nonexistent-test
+while nonexistent-condition
+cf push nonexistent-app
+mkdocs serve nonexistent-site
+kubens nonexistent-namespace
+watchman watch nonexistent-directory
+copy nonexistent-file
+sort nonexistent-file
+rustc nonexistent-file.rs
+fly deploy nonexistent-app
+deno run nonexistent-script.ts
+fd nonexistent-pattern nonexistent-file
+lerna run nonexistent-task
+apt-cache search nonexistent-package
+git version nonexistent-option
+sftp nonexistent-host
+tldr nonexistent-command
+ldd nonexistent-library
+hugo new nonexistent-post
+supabase start nonexistent-service
+git bisect start nonexistent-commit
+dos2unix nonexistent-file
+fmt nonexistent-file
+ns nonexistent-command
+sc nonexistent-command
+stripe invalid-payment-method
+mount nonexistent-device
+mamba install nonexistent-package
+ansible-galaxy install nonexistent-role
+nuxt generate nonexistent-project
+ni install nonexistent-package
+cargo check nonexistent-target
+eb deploy nonexistent-app
+spring run nonexistent-project
+move nonexistent-file nonexistent-location
+od nonexistent-option
+pacman -S nonexistent-package
+lsd nonexistent-directory
+hg commit nonexistent-repo
+cap deploy nonexistent-task
+kind create nonexistent-cluster
+truncate nonexistent-file
+dotenv config nonexistent-file
+md nonexistent-document
+tfenv use nonexistent-version
+airflow run nonexistent-task
+br nonexistent-option
+astro build nonexistent-project
+who nonexistent-user
+github push nonexistent-repo
+traceroute nonexistent-host
+nrm use nonexistent-registry
+cargo new nonexistent-project
+bc nonexistent-expression
+lsblk nonexistent-device
+mix deps.get nonexistent-project
+rd nonexistent-directory
+xdg-open nonexistent-url
+title nonexistent-title
+mob use nonexistent-feature
+composer list nonexistent-package
+zed nonexistent-command
+amplify push nonexistent-environment
+publish nonexistent-package
+gdb run nonexistent-program
+composer validate nonexistent-package
+forge deploy nonexistent-site
+readlink nonexistent-file
+clang compile nonexistent-source
+git difftool nonexistent-branch
+dirname nonexistent-path
+sysctl nonexistent-variable
+nuxi run nonexistent-command
+nr nonexistent-project
+route delete nonexistent-route
+passwd nonexistent-user
+helmfile apply nonexistent-configuration
+rush run nonexistent-task
+oh-my-posh init nonexistent-shell
+tr nonexistent-file
+ver nonexistent-command
+tsh ssh nonexistent-host
+trivy scan nonexistent-image
+shutdown -h nonexistent-time
+xcrun build nonexistent-target
+whois nonexistent-domain
+pkg-config nonexistent-package
+sqlfluff lint nonexistent-file
+basename nonexistent-path
+tasklist nonexistent-task
+neofetch nonexistent-system
+yalc publish nonexistent-package
+emacs nonexistent-file
+wrangler publish nonexistent-worker
+firefox nonexistent-url
+sfdx deploy nonexistent-org
+fin nonexistent-task
+fastlane deploy nonexistent-app
+iex run nonexistent-script
+pandoc convert nonexistent-file
+exercism submit nonexistent-solution
+softwareupdate --install nonexistent-update
+xcodebuild build nonexistent-project
+index nonexistent-option
+doppler run nonexistent-task
+tailwindcss build nonexistent-css
+typeorm migration nonexistent-entity
+composer bump nonexistent-package
+cordova run nonexistent-app
+xargs nonexistent-command
+svn update nonexistent-repo
+micro nonexistent-file
+launchctl start nonexistent-service
+msbuild build nonexistent-project
+lp print nonexistent-file
+hub clone nonexistent-repo
+vapor build nonexistent-project
+awsume login nonexistent-profile
+egrep nonexistent-pattern nonexistent-file
+cut nonexistent-field nonexistent-file
+composer diagnose nonexistent-package
+cal nonexistent-month
+cloudflared tunnel nonexistent-host
+composer help nonexistent-command
+composer run-script nonexistent-script
+goctl run nonexistent-task
+yo nonexistent-generator
+fzf nonexistent-directory
+doctl compute droplet nonexistent-id
+electron build nonexistent-app
+argo submit nonexistent-workflow
+tokei nonexistent-directory
+meteor deploy nonexistent-app
+else nonexistent-command
+netsh nonexistent-interface
+magento deploy nonexistent-site
+sta nonexistent-option
+goreleaser release nonexistent-config
+mocha test nonexistent-test
+rclone sync nonexistent-directory
+sanity deploy nonexistent-dataset
+sidekiq start nonexistent-worker
+pro run nonexistent-script
+xxd nonexistent-file
+limactl start nonexistent-machine
+exa nonexistent-file
+tracert nonexistent-host
+rollup build nonexistent-config
+flyctl deploy nonexistent-app
+btop nonexistent-process
+trash nonexistent-file
+ansible-lint nonexistent-playbook
+hasura migrate nonexistent-database
+trunk run nonexistent-project
+sequelize db:migrate nonexistent-model
+zig build nonexistent-project
+klist nonexistent-ticket
+circleci run nonexistent-job
+rushx build nonexistent-app
+split nonexistent-file
+valgrind run nonexistent-program
+knex migrate nonexistent-database
+cargo tree nonexistent-crate
+unalias nonexistent-command
+hexo deploy nonexistent-site
+iconv nonexistent-charset
+charm build nonexistent-task
+svn status nonexistent-repo
+cargo init nonexistent-project
+c++ compile nonexistent-source
+composer status nonexistent-package
+defaults write nonexistent-setting
+cargo doc nonexistent-crate
+mas install nonexistent-app
+gatsby build nonexistent-site
+tee nonexistent-file
+encore build nonexistent-task
+aliases add nonexistent-alias
+composer search nonexistent-package
+uniq nonexistent-file
+svn commit nonexistent-repo
+composer reinstall nonexistent-package
+esbuild build nonexistent-project
+create-react-app create nonexistent-app
+clojure run nonexistent-task
+copilot deploy nonexistent-task
+fdisk nonexistent-disk
+caffeinate -u nonexistent-option
+netlify deploy nonexistent-site
+sha1sum nonexistent-file
+fgrep nonexistent-pattern nonexistent-file
+scc nonexistent-repo
+cargo fix nonexistent-project
+elm run nonexistent-file
+mode nonexistent-option
+k3d create nonexistent-cluster
+lima start nonexistent-machine
+composer depends nonexistent-package
+newman run nonexistent-collection
+cargo remove nonexistent-crate
+opa eval nonexistent-policy
+tailscale up nonexistent-interface
+wscat connect nonexistent-url
+karma run nonexistent-test
+tb nonexistent-option
+speedtest run nonexistent-server
+xed open nonexistent-file
+seq 1 nonexistent-option
+wasm-pack build nonexistent-project
+xc compile nonexistent-file
+clang++ compile nonexistent-source
+prompt nonexistent-command
+babel compile nonexistent-script
+okteto deploy nonexistent-environment
+swift run nonexistent-project
+cargo uninstall nonexistent-crate
+composer exec nonexistent-script
+coda run nonexistent-task
+reg add nonexistent-key
+xcopy nonexistent-file nonexistent-destination
+elixir run nonexistent-file
+browser-sync start nonexistent-directory
+codesign sign nonexistent-binary
+hx build nonexistent-app
+hardhat run nonexistent-script
+osascript run nonexistent-applescript
+git-flow init nonexistent-branch
+rancher up nonexistent-cluster
+visudo edit nonexistent-file
+composer check-platform-reqs nonexistent-package
+vale lint nonexistent-file
+cargo bench nonexistent-task
+space start nonexistent-workspace
+tfsec scan nonexistent-terraform
+nl nonexistent-file
+paste nonexistent-file
+suitecloud deploy nonexistent-project
+multipass start nonexistent-vm
+chezmoi apply nonexistent-config
+https nonexistent-url
+wrk benchmark nonexistent-url
+goto nonexistent-label
+railway deploy nonexistent-project
+do-release-upgrade nonexistent-option
+systeminfo nonexistent-option
+hyperfine benchmark nonexistent-command
+then nonexistent-command
+truffle migrate nonexistent-contract
+bw get nonexistent-password
+checkov scan nonexistent-directory
+dog query nonexistent-domain
+pgcli connect nonexistent-database
+julia run nonexistent-script
+jmeter run nonexistent-plan
+stencil build nonexistent-component
+ansible-config dump nonexistent-option
+trap nonexistent-signal
+swc compile nonexistent-file
+tac nonexistent-file
+youtube-dl download nonexistent-url
+until nonexistent-condition
+kitty start nonexistent-session
+okta login nonexistent-user
+remix build nonexistent-project
+fisher install nonexistent-plugin
+ansible-doc show nonexistent-module
+git repack nonexistent-branch
+unix2dos nonexistent-file
+twilio send nonexistent-message
+speedtest-cli run nonexistent-server
+hop start nonexistent-task
+qodana scan nonexistent-directory
+gource log nonexistent-repo
+dust check nonexistent-directory
+adr new nonexistent-architecture
+typos check nonexistent-text
+git-cliff generate nonexistent-changelog
+elif nonexistent-condition
+join nonexistent-file
+capacitor build nonexistent-project
+cargo help nonexistent-command
+expo-cli start nonexistent-app
+dscacheutil flushcache nonexistent-option
+dcli run nonexistent-task
+whatis nonexistent-command
+asar pack nonexistent-directory
+code-insiders open nonexistent-file
+kool start nonexistent-environment
+rgrep nonexistent-pattern nonexistent-file
+mongoimport import nonexistent-collection
+kdoctor run nonexistent-diagnosis
+cargo version nonexistent-option
+molecule test nonexistent-playbook
+ua enable nonexistent-feature
+gibo add nonexistent-ignores
+paper deploy nonexistent-project
+cargo search nonexistent-crate
+vr nonexistent-command
+pause nonexistent-task
+homey start nonexistent-project
+asciinema rec nonexistent-file
+attrib nonexistent-file
+whence nonexistent-command
+gum start nonexistent-project
+sw_vers nonexistent-option
+ghq get nonexistent-repo
+dprint format nonexistent-file
+fold nonexistent-file
+mask run nonexistent-task
+cipher encrypt nonexistent-file
+zapier trigger nonexistent-action
+surreal db nonexistent-query
+mikro-orm migration:generate nonexistent-entity
+dscl nonexistent-command
+svn checkout nonexistent-repo
+noglob nonexistent-option
+pkgutil nonexistent-package
+hyper start nonexistent-task
+tns run nonexistent-project
+repeat nonexistent-command
+vtex deploy nonexistent-app
+create-next-app create nonexistent-app
+mdfind nonexistent-file
+cargo rustc nonexistent-crate
+sips open nonexistent-image
+vsce package nonexistent-extension
+rich nonexistent-option
+cdk8s synth nonexistent-app
+ykman fido nonexistent-key
+mkfifo nonexistent-pipe
+leaf nonexistent-option
+spotify play nonexistent-track
+asr restore nonexistent-volume
+composer prohibits nonexistent-package
+cargo vendor nonexistent-crate
+wezterm start nonexistent-session
+wasm-bindgen build nonexistent-crate
+mgnl build nonexistent-project
+tkn start nonexistent-task
+lpass show nonexistent-password
+start-storybook start nonexistent-project
+subst nonexistent-option
+rome build nonexistent-project
+cargo generate-lockfile nonexistent-crate
+appwrite deploy nonexistent-app
+zoxide add nonexistent-directory
+envchain set nonexistent-variable
+cargo fetch nonexistent-crate
+deployctl deploy nonexistent-project
+sapphire run nonexistent-command
+banner nonexistent-message
+ncal nonexistent-month
+ditto copy nonexistent-file
+copypath copy nonexistent-path
+pocketbase serve nonexistent-db
+glow nonexistent-file
+st2 run nonexistent-task
+croc send nonexistent-file
+nextflow run nonexistent-task
+pscale deploy nonexistent-database
+chkdsk nonexistent-disk
+nocorrect nonexistent-option
+taplo lint nonexistent-file
+swagger-typescript-api generate nonexistent-file
+mosh nonexistent-server
+bosh deploy nonexistent-cloud
+dotenv-vault sync nonexistent-env
+fastly deploy nonexistent-service
+mongocli connect nonexistent-instance
+osqueryi query nonexistent-database
+ibus restart nonexistent-service
+zellij start nonexistent-session
+stow apply nonexistent-directory
+rojo start nonexistent-project
+simctl boot nonexistent-device
+ganache-cli start nonexistent-chain
+deta deploy nonexistent-project
+cosign sign nonexistent-image
+basenc encode nonexistent-file
+aftman install nonexistent-package
+composer completion nonexistent-command
+rscript run nonexistent-script
+taskmgr start nonexistent-task
+wing start nonexistent-task
+composer suggests nonexistent-package
+cargo metadata nonexistent-crate
+build-storybook build nonexistent-story
+vela deploy nonexistent-app
+phpunit-watcher run nonexistent-test
+create-nx-workspace nonexistent-project
+composer licenses nonexistent-package
+mdls nonexistent-file
+datree scan nonexistent-directory
+xcodes install nonexistent-version
+blitz start nonexistent-project
+kubecolor apply nonexistent-config
+bcdedit nonexistent-option
+cargo rustdoc nonexistent-crate
+assimp export nonexistent-file
+pathchk nonexistent-path
+tmuxinator start nonexistent-session
+broot start nonexistent-directory
+tuist generate nonexistent-project
+kafkactl consume nonexistent-topic
+networkQuality nonexistent-option
+git repack nonexistent-option
+compact nonexistent-directory
+create-react-native-app nonexistent-app
+cargo verify-project nonexistent-crate
+elm-json build nonexistent-file
+copyfile nonexistent-source nonexistent-destination
+pmset sleepnow nonexistent-option
+cargo report nonexistent-task
+expand nonexistent-file
+mknod nonexistent-node
+afplay nonexistent-audio
+tccutil reset nonexistent-service
+tmutil listlocalsnapshots nonexistent-disk
+cot install nonexistent-package
+tsuru deploy nonexistent-app
+shred nonexistent-file
+elm-format format nonexistent-file
+eleventy build nonexistent-project
+cliff-jumper start nonexistent-game
+create-t3-app create nonexistent-app
+dotslash run nonexistent-script
+vimr nonexistent-file
+wifi-password show nonexistent-wifi
+defaultbrowser set nonexistent-browser
+onboardbase deploy nonexistent-database
+fzf-tmux start nonexistent-tmux-session
